@@ -7,8 +7,7 @@ Permite adicionar, marcar como concluídas, excluir tarefas e filtrar entre **To
 
 ## 🚀 Demonstração
 
-🔗 [Acesse o projeto no Vercel](https://to-do-list.vercel.app)  
-🔗 [Acesse o projeto no Netlify](https://to-do-list.netlify.app)
+🔗 [Acesse o projeto no Netlify](https://todo-list-hugo.netlify.app/)
 
 ---
 
