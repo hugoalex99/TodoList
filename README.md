@@ -1,3 +1,7 @@
+Desenvolvido por Hugo Alexandre 
+📧 Contato: hugoalex99@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/hugo-alexandre-farias/
+
 # 📝 To-do List em React
 
 Projeto de Lista de Tarefas desenvolvido em **React + JavaScript**, com persistência em **LocalStorage**.  
